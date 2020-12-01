@@ -1,3 +1,7 @@
+---
+---
+
+@import "{{ site.theme }}";
 #header {
     z-index: 100;
     left:0;
@@ -49,10 +53,15 @@
           }
         }
   
-        &.elem {
+        &.home {
           float: left;
-          margin-left: 6px;
+          margin-left: 0px;
         }
+
+        &.elem {
+            float: left;
+            margin-left: 6px;
+          }
   
         &.downloads {
           float: right;
