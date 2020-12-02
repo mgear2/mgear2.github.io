@@ -9,4 +9,14 @@ Undervoid is a very-much-under-development dungeon crawler/bullet hell/rpg-lite 
 Technologies: [Python](https://www.python.org/), [pygame](https://www.pygame.org)  
 License: [MIT](https://github.com/mgear2/undervoid/blob/master/LICENSE)
 
-[View on Github](https://github.com/mgear2/undervoid)
+[View on Github](https://github.com/mgear2/undervoid)  
+
+---
+### rust-irc
+---
+A simple IRC (Internet Relay Chat) Client written in Rust.
+
+Technologies: [Rust](https://www.rust-lang.org/), [IRC Protocol](https://tools.ietf.org/html/rfc1459)  
+License: [MIT](https://github.com/mgear2/rust-irc/blob/master/LICENSE)
+
+[View on Github](https://github.com/mgear2/rust-irc)
