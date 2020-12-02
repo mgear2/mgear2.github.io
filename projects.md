@@ -1,6 +1,5 @@
 # Active Projects
 ---
-<br/><br/>
 ## Undervoid 
 ---
 ![undervoidtitle](assets/img/undervoidtitle.png)
