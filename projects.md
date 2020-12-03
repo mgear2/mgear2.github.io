@@ -1,4 +1,6 @@
-# Projects
+# Projects  
+<br/><br/>
+
 ---
 ### Undervoid 
 ---
@@ -10,6 +12,7 @@ Technologies: [Python](https://www.python.org/), [pygame](https://www.pygame.org
 License: [MIT](https://github.com/mgear2/undervoid/blob/master/LICENSE)
 
 [View on Github](https://github.com/mgear2/undervoid)  
+<br/><br/>
 
 ---
 ### rust-irc
@@ -20,3 +23,15 @@ Technologies: [Rust](https://www.rust-lang.org/), [IRC Protocol](https://tools.i
 License: [MIT](https://github.com/mgear2/rust-irc/blob/master/LICENSE)
 
 [View on Github](https://github.com/mgear2/rust-irc)
+<br/><br/>
+
+---
+### pg-forum
+---
+An application to build, browse and edit a forum from the command line using a Postgres database. 
+
+Technologies: [Python](https://www.python.org/), [PostgreSQL](https://www.postgresql.org/)  
+License: [MIT](https://github.com/mgear2/pg-forum/blob/master/LICENSE)
+
+[View on Github](https://github.com/mgear2/pg-forum)
+<br/><br/>
