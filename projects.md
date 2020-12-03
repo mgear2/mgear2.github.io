@@ -17,7 +17,7 @@ License: [MIT](https://github.com/mgear2/undervoid/blob/master/LICENSE)
 ---
 ![rustirctitle](assets/img/rust-irc_title_default.png)
 
-A simple IRC (Internet Relay Chat) Client written in Rust.
+A simple IRC (Internet Relay Chat) Client written in Rust. Adheres to the IRC Protocol as described in RFC 1459. 
 
 Technologies: [Rust](https://www.rust-lang.org/), [IRC Protocol](https://tools.ietf.org/html/rfc1459)  
 License: [MIT](https://github.com/mgear2/rust-irc/blob/master/LICENSE)
@@ -29,7 +29,7 @@ License: [MIT](https://github.com/mgear2/rust-irc/blob/master/LICENSE)
 ---
 ![pgforumtitle](assets/img/pg-forum_title.png)
 
-An application to build, browse and edit a forum from the command line using a Postgres database. 
+pg-forum is an application which can be used to build, browse and edit a forum from the command-line using a PostgreSQL database. The application in its current form is modeled to browse a web forum Q&A site such as those found under the stackexchange umbrella. A user may leverage both custom and pre-built queries to browse the database.
 
 Technologies: [Python](https://www.python.org/), [PostgreSQL](https://www.postgresql.org/)  
 License: [MIT](https://github.com/mgear2/pg-forum/blob/master/LICENSE)
