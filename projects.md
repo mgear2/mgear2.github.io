@@ -1,8 +1,7 @@
 # Projects  
 <br/><br/>
 
----
-### Undervoid 
+### Undervoid
 ---
 ![undervoidtitle](assets/img/undervoidtitle.png)
 
@@ -14,7 +13,6 @@ License: [MIT](https://github.com/mgear2/undervoid/blob/master/LICENSE)
 [View on Github](https://github.com/mgear2/undervoid)  
 <br/><br/>
 
----
 ### rust-irc
 ---
 ![rustirctitle](assets/img/rust-irc_title_default.png)
@@ -27,7 +25,6 @@ License: [MIT](https://github.com/mgear2/rust-irc/blob/master/LICENSE)
 [View on Github](https://github.com/mgear2/rust-irc)
 <br/><br/>
 
----
 ### pg-forum
 ---
 ![pgforumtitle](assets/img/pg-forum_title.png)
